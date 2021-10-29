@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Alan;Gomes;;;
-FN: Gomes  Alan 
+N:José;Zacour;;;
+FN: Zacour  José 
 ORG:GH Wesco;
-TITLE:Analista de Suporte, Comercial
+TITLE:Diretor Geral, 
 EMAIL;type=INTERNET;type=WORK;type=pref:alan.gomes@ghwesco.com.br
-TEL;type=WORK;type=VOICE:021 9880 20298
+TEL;type=WORK;type=VOICE:021 98759 4025
 item1.ADR;type=WORK;type=pref:;;Rua da Alfândega 81\, Centro;;;Rio de Janeiro
 item1.X-ABADR:sg
 item2.URL;type=pref:ghwesco.com.br
